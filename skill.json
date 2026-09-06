@@ -1,0 +1,12 @@
+{
+  "name": "genpark-paged-attention-kv-cache-block-allocator-skill",
+  "version": "1.0.0",
+  "description": "Simulates vLLM PagedAttention non-contiguous virtual memory block table allocation for dynamic KV-cache management.",
+  "category": "Edge AI Quantization & Model Sharding",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-paged-attention-kv-cache-block-allocator-skill",
+  "verified": true,
+  "stars": 8
+}
